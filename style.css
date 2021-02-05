@@ -1,0 +1,46 @@
+html {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: black;
+}
+h1 {
+    color: #0066cc;
+}
+h2 {
+    color: #7B25AA;
+}
+h3 {
+    color: white;
+}
+
+h4 {
+    color: #b31004;
+}
+
+h5 {
+    color: white;
+}
+
+h6 {
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+li {
+    color: white;
+    display: inline-block;
+}
+
+a {
+    color: #FF0067;
+}
+
+nav {
+    position: fixed;
+    z-index: 2;
+}
